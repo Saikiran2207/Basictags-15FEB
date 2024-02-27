@@ -1,0 +1,15 @@
+body{
+    
+    background: linear-gradient(#eb7734 30%, #f7fbfc 50%, #0acf0a 100%);
+}
+img{
+    width: 400px;
+    height: 400px;
+    border-radius: 10%;
+}
+
+p {
+  color: navy;
+  text-indent: 30px;
+  text-transform: uppercase;
+}
